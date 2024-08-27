@@ -4,7 +4,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def search_incruit(kw, pg):
+def search_incruit(kw, pg = 1):
     jobs = []
     for i in range(pg):
         pg = i * 30
@@ -35,7 +35,7 @@ def search_incruit(kw, pg):
             # print(link)
 
             job_data = {
-                "tilte": context,
+                "title": context,
                 "company": cpname,
                 "location": location,
                 "link": link
@@ -47,7 +47,7 @@ def search_incruit(kw, pg):
     return jobs
 
 
-def search_jobkorea(kw, pg):
+def search_jobkorea(kw, pg = 1):
     jobs = []
     for i in range(pg):
 

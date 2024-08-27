@@ -1,16 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>잡스크래핑</h1>
-    <h5>잡코리아, 인크루트 사이트에서 직업을 검색합니다.</h5>
-    <form action="/search">
-        <input type="text" name="kw" placeholder="찾으시는 직무를 입력해주세요"/>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- PicoCSS CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+    />
+    <title>scr_test</title>
+  </head>
+  <body>
+    <header class="container">
+      <nav>
+        <ul>
+          <li>
+            <h2><strong>테스트</strong></h2>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="container">
+      <h1>잡스크래핑</h1>
+      <h5>잡코리아, 인크루트 사이트에서 직업을 검색합니다.</h5>
+      <form action="/search">
+        <input
+          type="text"
+          name="kw"
+          placeholder="찾으시는 직무를 입력해주세요"
+        />
         <button>검색하기</button>
-    </form>
-</body>
+      </form>
+    </main>
+    <footer></footer>
+  </body>
 </html>
