@@ -11,7 +11,22 @@
     <title>Document</title>
   </head>
   <body>
-    <header></header>
+    <header class="container">
+      <nav>
+        <ul>
+          <li>
+            <a href="/"
+              ><h2><strong>테스트</strong></h2></a
+            >
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/export?kw={{keyword}}"><button>CSV 다운로드</button></a>
+          </li>
+        </ul>
+      </nav>
+    </header>
     <main class="container">
       <h1>검색결과입니다.</h1>
       <h4>키워드 "{{ keyword }}"로 {{ counts }}개 검색.</h4>
@@ -29,7 +44,9 @@
           {% for index, job in jobs %}
           <tr>
             <td>{{ index + 1 }}</td>
-            <td>{{ job["title"] }}</td>
+            <td>
+              <a href="{{job['link']}}" target="_blank">{{ job["title"] }}</a>
+            </td>
             <td>{{ job["company"] }}</td>
             <td>{{ job["location"] }}</td>
           </tr>
@@ -37,6 +54,8 @@
         </tbody>
       </table>
     </main>
-    <footer></footer>
+    <footer class="container">
+      Copyright &copy; 2024 Y All rights reserved
+    </footer>
   </body>
 </html>

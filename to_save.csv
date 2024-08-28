@@ -1,31 +1,301 @@
 No,공고,사명,장소,참조
-1,간호사,보령시립노인전문병원,충남>보령시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408130002015&src=etc*search
-2,"양평요양병원에서 간호사(병동간호사1명, 나이트간호사1명) 모십니다.",양평요양병원,경기>양평군,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230001390&src=etc*search
-3,간호사 모집,예손재활의학과의원,경남>진주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190000870&src=etc*search
-4,간호사 구인,올리브실버케어,경기>고양시 덕양구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002463&src=etc*search
-5,간호사 모집,라온팰리스요양원,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210005115&src=etc*search
-6,간호사 모십니다.,우석대한방병원,전북>전주시 완산구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230000674&src=etc*search
-7,정신과 간호사,한길병원,전북>완주군,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408220000656&src=etc*search
-8,"수간호사, N전담간호사, D/E간호사  초빙 공고",의료법인 아주효성의료재단,경기>화성시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210005649&src=etc*search
-9,병동간호사모집,(의)성동재단,대구>북구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408160003316&src=etc*search
-10,"간호사 모집 / 병동 3교대 / D, E  간호사",실로암요양병원,전북>완주군,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200000620&src=etc*search
-11,간호사 채용 공고,문경어르신마을,경북>문경시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408140005211&src=etc*search
-12,책임간호사 구인,의료법인청명의료재단 목포참사랑요양병원,전남>목포시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408130002275&src=etc*search
-13,간호사 채용 공고,경상남도립치매요양병원,경남>김해시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200004508&src=etc*search
-14,응급실 간호사 모집,서산중앙병원,충남>서산시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190003797&src=etc*search
-15,D/E 간호사 모집합니다.,보비스병원,대구>수성구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408120002076&src=etc*search
-16,인성병원 간호사 구인,인성병원,경북>포항시 북구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210000463&src=etc*search
-17,간호사 채용,황석순내과의원,경북>포항시 북구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408140000651&src=etc*search
-18,간호사 채용,율요양원,대전>서구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230003182&src=etc*search
-19,속초보광병원 간호사 채용,의료법인보광의료재단속초보광병원,강원>속초시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2403270000398&src=etc*search
-20,간호사 모집,한나요양원,경기>이천시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408130000473&src=etc*search
-21,나이트 전담 간호사 구인합니다.,미래아동병원,광주>남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230003423&src=etc*search
-22,급) M간호사 채용합니다.(N 간호사도 채용합니다.),화현요양병원,경기>포천시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190006477&src=etc*search
-23,간호사 모집합니다,제주원광요양원,제주>제주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001823&src=etc*search
-24,요양원 간호사구인,안양실버케어호계요양원,경기>안양시 동안구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260006184&src=etc*search
-25,3교대 간호사 채용합니다.,미즈병원,전남>순천시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408130005600&src=etc*search
-26,간호사 신입/경력  채용,(의)용성의료재단 삼성합천병원,경남>합천군,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408090002561&src=etc*search
-27,해피요양원 간호사 모집합니다,해피요양원,경남>창원시 진해구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210003879&src=etc*search
-28,여주순영병원에서 병동간호사를 채용합니다.,의료법인고려의료재단,경기>여주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408090000886&src=etc*search
-29,광주희망병원 간호사 구인,광주희망병원,광주>북구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408140004525&src=etc*search
-30,요양원 간호사 채용 공고,장수만세,경기>양평군,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260002074&src=etc*search
+1,파이썬 ( python) 개발 경력자 모집,(주)테드,서울>강서구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408220004644&src=etc*search
+2,"코딩 학원 전임 강사 모집합니다. (파이썬, c언어)",코딩하는아이들컴퓨터학원,서울>은평구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2210180003731&src=etc*search
+3,[Lighthouse] Backend 파이썬 개발자 채용,삼정회계법인,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001264&src=etc*search
+4,"백엔드 풀스택 웹개발자 부트캠프 (자바, 파이썬, AI 챗봇) 연수생 모집",(주) 이젠아카데미,서울>강남구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210004846&src=etc*search
+5,"[아이티윌부산] AI(파이썬) 활용 백엔드(자바, 스프링) 개발자 과정 모집 (8, 9월)",(주)아이티윌 부산지점,부산>부산진구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407190002731&src=etc*search
+6,개발자 모집 - Python 서버 프로그램 개발,(주)위존,서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2201100005848&src=etc*search
+7,[제주]시스템 개발(Python) 계약직/정규직 모집,(주)네피리티,제주>제주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001012&src=etc*search
+8,[일자리매칭플랫폼] Python 개발자 채용,(주)버블콘,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408070004863&src=etc*search
+9,[일자리매칭플랫폼] Python Back-end Engineer,올거나이즈코리아 주식회사,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407250004247&src=etc*search
+10,Python 데이터 처리 및 분석 프로그램 개발자 모집,디지키,경기>안양시 만안구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2406210000354&src=etc*search
+11,[AOX Korea] Python / C++ Engineer(신입),유한회사 에이오엑스코리아,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407260005573&src=etc*search
+12,[일자리매칭플랫폼] 데이터 엔지니어 (Python) 채용,(주)핀다,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407220001580&src=etc*search
+13,백엔드 엔지니어 (Python),(주)버핏서울,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407310000342&src=etc*search
+14,(주)퍼브 SK AI 개발프로젝트 Python 개발자 프리랜서 채용,(주)퍼브,경기>과천시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210002650&src=etc*search
+15,[코리아교육그룹]Python / JAVA / C언어/ C# / C++ 강사 모집중,(주)에스씨에이아카데미혜화,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2112200003928&src=etc*search
+16,파이프레이저 절단사원 모집,준텍레이저,경북>포항시 남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190000965&src=etc*search
+17,"백엔드 개발자 Node.js, Python/5년 이상",(주)딥세일즈,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2403200000195&src=etc*search
+18,가든파이브웍스 기계기사 채용,가든파이브웍스(주),서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270002214&src=etc*search
+19,130파이 보링기 경력사원 모집,주식회사 엠스타,경기>시흥시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260002119&src=etc*search
+20,사단법인 파이나다운청년들 매니저 채용,(사)파이나다운청년들,경기>성남시 분당구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2404020000319&src=etc*search
+21,[파이빅스] 제품디자인 경력직 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230004340&src=etc*search
+22,계룡산 호두파이 라벨로에서 직원모집합니다.,계룡산호두파이 라벨로,충남>공주시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2301070000040&src=etc*search
+23,(주)파이온텍  마케팅 상품기획 경력직 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000262&src=etc*search
+24,(주)파이빅스 해외영업 신입직원 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260000210&src=etc*search
+25,(주)파이온텍 마케팅 상품기획 팀원급 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000235&src=etc*search
+26,CNC 및 파이프레이저 생산가공 (정규직),(주)디랙스,경기>안양시 만안구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2303230000261&src=etc*search
+27,수동 보링기 100파이 1대 기술자 모집,글로벌company,경기>김포시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002346&src=etc*search
+28,[K-DT 무료교육] 빅데이터 자바&파이선  풀스택 취업과정 훈련생  모집,오라클자바교육센터,서울>구로구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190005654&src=etc*search
+29,주5일 / 부천 송내 벤츠파이낸스 대표번호 고객상담 모집,(주)유정에이치알,경기 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230002980&src=etc*search
+30,세종파이낸스센터1차 미화원 채용 (1명),주식회사 유진티에스,세종,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002307&src=etc*search
+31,파이썬 ( python) 개발 경력자 모집,(주)테드,서울>강서구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408220004644&src=etc*search
+32,"코딩 학원 전임 강사 모집합니다. (파이썬, c언어)",코딩하는아이들컴퓨터학원,서울>은평구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2210180003731&src=etc*search
+33,[Lighthouse] Backend 파이썬 개발자 채용,삼정회계법인,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001264&src=etc*search
+34,"백엔드 풀스택 웹개발자 부트캠프 (자바, 파이썬, AI 챗봇) 연수생 모집",(주) 이젠아카데미,서울>강남구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210004846&src=etc*search
+35,"[아이티윌부산] AI(파이썬) 활용 백엔드(자바, 스프링) 개발자 과정 모집 (8, 9월)",(주)아이티윌 부산지점,부산>부산진구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407190002731&src=etc*search
+36,개발자 모집 - Python 서버 프로그램 개발,(주)위존,서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2201100005848&src=etc*search
+37,[제주]시스템 개발(Python) 계약직/정규직 모집,(주)네피리티,제주>제주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001012&src=etc*search
+38,[일자리매칭플랫폼] Python 개발자 채용,(주)버블콘,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408070004863&src=etc*search
+39,[일자리매칭플랫폼] Python Back-end Engineer,올거나이즈코리아 주식회사,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407250004247&src=etc*search
+40,Python 데이터 처리 및 분석 프로그램 개발자 모집,디지키,경기>안양시 만안구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2406210000354&src=etc*search
+41,[AOX Korea] Python / C++ Engineer(신입),유한회사 에이오엑스코리아,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407260005573&src=etc*search
+42,[일자리매칭플랫폼] 데이터 엔지니어 (Python) 채용,(주)핀다,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407220001580&src=etc*search
+43,백엔드 엔지니어 (Python),(주)버핏서울,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407310000342&src=etc*search
+44,(주)퍼브 SK AI 개발프로젝트 Python 개발자 프리랜서 채용,(주)퍼브,경기>과천시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210002650&src=etc*search
+45,[코리아교육그룹]Python / JAVA / C언어/ C# / C++ 강사 모집중,(주)에스씨에이아카데미혜화,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2112200003928&src=etc*search
+46,파이프레이저 절단사원 모집,준텍레이저,경북>포항시 남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190000965&src=etc*search
+47,"백엔드 개발자 Node.js, Python/5년 이상",(주)딥세일즈,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2403200000195&src=etc*search
+48,가든파이브웍스 기계기사 채용,가든파이브웍스(주),서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270002214&src=etc*search
+49,130파이 보링기 경력사원 모집,주식회사 엠스타,경기>시흥시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260002119&src=etc*search
+50,사단법인 파이나다운청년들 매니저 채용,(사)파이나다운청년들,경기>성남시 분당구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2404020000319&src=etc*search
+51,[파이빅스] 제품디자인 경력직 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230004340&src=etc*search
+52,계룡산 호두파이 라벨로에서 직원모집합니다.,계룡산호두파이 라벨로,충남>공주시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2301070000040&src=etc*search
+53,(주)파이온텍  마케팅 상품기획 경력직 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000262&src=etc*search
+54,(주)파이빅스 해외영업 신입직원 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260000210&src=etc*search
+55,(주)파이온텍 마케팅 상품기획 팀원급 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000235&src=etc*search
+56,CNC 및 파이프레이저 생산가공 (정규직),(주)디랙스,경기>안양시 만안구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2303230000261&src=etc*search
+57,수동 보링기 100파이 1대 기술자 모집,글로벌company,경기>김포시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002346&src=etc*search
+58,[K-DT 무료교육] 빅데이터 자바&파이선  풀스택 취업과정 훈련생  모집,오라클자바교육센터,서울>구로구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190005654&src=etc*search
+59,주5일 / 부천 송내 벤츠파이낸스 대표번호 고객상담 모집,(주)유정에이치알,경기 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230002980&src=etc*search
+60,세종파이낸스센터1차 미화원 채용 (1명),주식회사 유진티에스,세종,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002307&src=etc*search
+61,파이썬 ( python) 개발 경력자 모집,(주)테드,서울>강서구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408220004644&src=etc*search
+62,"코딩 학원 전임 강사 모집합니다. (파이썬, c언어)",코딩하는아이들컴퓨터학원,서울>은평구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2210180003731&src=etc*search
+63,[Lighthouse] Backend 파이썬 개발자 채용,삼정회계법인,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001264&src=etc*search
+64,"백엔드 풀스택 웹개발자 부트캠프 (자바, 파이썬, AI 챗봇) 연수생 모집",(주) 이젠아카데미,서울>강남구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210004846&src=etc*search
+65,"[아이티윌부산] AI(파이썬) 활용 백엔드(자바, 스프링) 개발자 과정 모집 (8, 9월)",(주)아이티윌 부산지점,부산>부산진구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407190002731&src=etc*search
+66,개발자 모집 - Python 서버 프로그램 개발,(주)위존,서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2201100005848&src=etc*search
+67,[제주]시스템 개발(Python) 계약직/정규직 모집,(주)네피리티,제주>제주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001012&src=etc*search
+68,[일자리매칭플랫폼] Python 개발자 채용,(주)버블콘,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408070004863&src=etc*search
+69,[일자리매칭플랫폼] Python Back-end Engineer,올거나이즈코리아 주식회사,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407250004247&src=etc*search
+70,Python 데이터 처리 및 분석 프로그램 개발자 모집,디지키,경기>안양시 만안구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2406210000354&src=etc*search
+71,[AOX Korea] Python / C++ Engineer(신입),유한회사 에이오엑스코리아,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407260005573&src=etc*search
+72,[일자리매칭플랫폼] 데이터 엔지니어 (Python) 채용,(주)핀다,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407220001580&src=etc*search
+73,백엔드 엔지니어 (Python),(주)버핏서울,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407310000342&src=etc*search
+74,(주)퍼브 SK AI 개발프로젝트 Python 개발자 프리랜서 채용,(주)퍼브,경기>과천시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210002650&src=etc*search
+75,[코리아교육그룹]Python / JAVA / C언어/ C# / C++ 강사 모집중,(주)에스씨에이아카데미혜화,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2112200003928&src=etc*search
+76,파이프레이저 절단사원 모집,준텍레이저,경북>포항시 남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190000965&src=etc*search
+77,"백엔드 개발자 Node.js, Python/5년 이상",(주)딥세일즈,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2403200000195&src=etc*search
+78,가든파이브웍스 기계기사 채용,가든파이브웍스(주),서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270002214&src=etc*search
+79,130파이 보링기 경력사원 모집,주식회사 엠스타,경기>시흥시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260002119&src=etc*search
+80,사단법인 파이나다운청년들 매니저 채용,(사)파이나다운청년들,경기>성남시 분당구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2404020000319&src=etc*search
+81,[파이빅스] 제품디자인 경력직 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230004340&src=etc*search
+82,계룡산 호두파이 라벨로에서 직원모집합니다.,계룡산호두파이 라벨로,충남>공주시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2301070000040&src=etc*search
+83,(주)파이온텍  마케팅 상품기획 경력직 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000262&src=etc*search
+84,(주)파이빅스 해외영업 신입직원 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260000210&src=etc*search
+85,(주)파이온텍 마케팅 상품기획 팀원급 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000235&src=etc*search
+86,CNC 및 파이프레이저 생산가공 (정규직),(주)디랙스,경기>안양시 만안구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2303230000261&src=etc*search
+87,수동 보링기 100파이 1대 기술자 모집,글로벌company,경기>김포시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002346&src=etc*search
+88,[K-DT 무료교육] 빅데이터 자바&파이선  풀스택 취업과정 훈련생  모집,오라클자바교육센터,서울>구로구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190005654&src=etc*search
+89,주5일 / 부천 송내 벤츠파이낸스 대표번호 고객상담 모집,(주)유정에이치알,경기 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230002980&src=etc*search
+90,세종파이낸스센터1차 미화원 채용 (1명),주식회사 유진티에스,세종,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002307&src=etc*search
+91,파이썬 ( python) 개발 경력자 모집,(주)테드,서울>강서구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408220004644&src=etc*search
+92,"코딩 학원 전임 강사 모집합니다. (파이썬, c언어)",코딩하는아이들컴퓨터학원,서울>은평구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2210180003731&src=etc*search
+93,[Lighthouse] Backend 파이썬 개발자 채용,삼정회계법인,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001264&src=etc*search
+94,"백엔드 풀스택 웹개발자 부트캠프 (자바, 파이썬, AI 챗봇) 연수생 모집",(주) 이젠아카데미,서울>강남구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210004846&src=etc*search
+95,"[아이티윌부산] AI(파이썬) 활용 백엔드(자바, 스프링) 개발자 과정 모집 (8, 9월)",(주)아이티윌 부산지점,부산>부산진구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407190002731&src=etc*search
+96,개발자 모집 - Python 서버 프로그램 개발,(주)위존,서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2201100005848&src=etc*search
+97,[제주]시스템 개발(Python) 계약직/정규직 모집,(주)네피리티,제주>제주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001012&src=etc*search
+98,[일자리매칭플랫폼] Python 개발자 채용,(주)버블콘,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408070004863&src=etc*search
+99,[일자리매칭플랫폼] Python Back-end Engineer,올거나이즈코리아 주식회사,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407250004247&src=etc*search
+100,Python 데이터 처리 및 분석 프로그램 개발자 모집,디지키,경기>안양시 만안구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2406210000354&src=etc*search
+101,[AOX Korea] Python / C++ Engineer(신입),유한회사 에이오엑스코리아,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407260005573&src=etc*search
+102,[일자리매칭플랫폼] 데이터 엔지니어 (Python) 채용,(주)핀다,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407220001580&src=etc*search
+103,백엔드 엔지니어 (Python),(주)버핏서울,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407310000342&src=etc*search
+104,(주)퍼브 SK AI 개발프로젝트 Python 개발자 프리랜서 채용,(주)퍼브,경기>과천시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210002650&src=etc*search
+105,[코리아교육그룹]Python / JAVA / C언어/ C# / C++ 강사 모집중,(주)에스씨에이아카데미혜화,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2112200003928&src=etc*search
+106,파이프레이저 절단사원 모집,준텍레이저,경북>포항시 남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190000965&src=etc*search
+107,"백엔드 개발자 Node.js, Python/5년 이상",(주)딥세일즈,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2403200000195&src=etc*search
+108,가든파이브웍스 기계기사 채용,가든파이브웍스(주),서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270002214&src=etc*search
+109,130파이 보링기 경력사원 모집,주식회사 엠스타,경기>시흥시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260002119&src=etc*search
+110,사단법인 파이나다운청년들 매니저 채용,(사)파이나다운청년들,경기>성남시 분당구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2404020000319&src=etc*search
+111,[파이빅스] 제품디자인 경력직 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230004340&src=etc*search
+112,계룡산 호두파이 라벨로에서 직원모집합니다.,계룡산호두파이 라벨로,충남>공주시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2301070000040&src=etc*search
+113,(주)파이온텍  마케팅 상품기획 경력직 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000262&src=etc*search
+114,(주)파이빅스 해외영업 신입직원 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260000210&src=etc*search
+115,(주)파이온텍 마케팅 상품기획 팀원급 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000235&src=etc*search
+116,CNC 및 파이프레이저 생산가공 (정규직),(주)디랙스,경기>안양시 만안구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2303230000261&src=etc*search
+117,수동 보링기 100파이 1대 기술자 모집,글로벌company,경기>김포시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002346&src=etc*search
+118,[K-DT 무료교육] 빅데이터 자바&파이선  풀스택 취업과정 훈련생  모집,오라클자바교육센터,서울>구로구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190005654&src=etc*search
+119,주5일 / 부천 송내 벤츠파이낸스 대표번호 고객상담 모집,(주)유정에이치알,경기 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230002980&src=etc*search
+120,세종파이낸스센터1차 미화원 채용 (1명),주식회사 유진티에스,세종,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002307&src=etc*search
+121,파이썬 ( python) 개발 경력자 모집,(주)테드,서울>강서구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408220004644&src=etc*search
+122,"코딩 학원 전임 강사 모집합니다. (파이썬, c언어)",코딩하는아이들컴퓨터학원,서울>은평구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2210180003731&src=etc*search
+123,[Lighthouse] Backend 파이썬 개발자 채용,삼정회계법인,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001264&src=etc*search
+124,"백엔드 풀스택 웹개발자 부트캠프 (자바, 파이썬, AI 챗봇) 연수생 모집",(주) 이젠아카데미,서울>강남구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210004846&src=etc*search
+125,"[아이티윌부산] AI(파이썬) 활용 백엔드(자바, 스프링) 개발자 과정 모집 (8, 9월)",(주)아이티윌 부산지점,부산>부산진구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407190002731&src=etc*search
+126,개발자 모집 - Python 서버 프로그램 개발,(주)위존,서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2201100005848&src=etc*search
+127,[제주]시스템 개발(Python) 계약직/정규직 모집,(주)네피리티,제주>제주시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270001012&src=etc*search
+128,[일자리매칭플랫폼] Python 개발자 채용,(주)버블콘,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408070004863&src=etc*search
+129,[일자리매칭플랫폼] Python Back-end Engineer,올거나이즈코리아 주식회사,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407250004247&src=etc*search
+130,Python 데이터 처리 및 분석 프로그램 개발자 모집,디지키,경기>안양시 만안구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2406210000354&src=etc*search
+131,[AOX Korea] Python / C++ Engineer(신입),유한회사 에이오엑스코리아,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407260005573&src=etc*search
+132,[일자리매칭플랫폼] 데이터 엔지니어 (Python) 채용,(주)핀다,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407220001580&src=etc*search
+133,백엔드 엔지니어 (Python),(주)버핏서울,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407310000342&src=etc*search
+134,(주)퍼브 SK AI 개발프로젝트 Python 개발자 프리랜서 채용,(주)퍼브,경기>과천시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408210002650&src=etc*search
+135,[코리아교육그룹]Python / JAVA / C언어/ C# / C++ 강사 모집중,(주)에스씨에이아카데미혜화,서울 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2112200003928&src=etc*search
+136,파이프레이저 절단사원 모집,준텍레이저,경북>포항시 남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190000965&src=etc*search
+137,"백엔드 개발자 Node.js, Python/5년 이상",(주)딥세일즈,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2403200000195&src=etc*search
+138,가든파이브웍스 기계기사 채용,가든파이브웍스(주),서울>송파구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408270002214&src=etc*search
+139,130파이 보링기 경력사원 모집,주식회사 엠스타,경기>시흥시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260002119&src=etc*search
+140,사단법인 파이나다운청년들 매니저 채용,(사)파이나다운청년들,경기>성남시 분당구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2404020000319&src=etc*search
+141,[파이빅스] 제품디자인 경력직 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230004340&src=etc*search
+142,계룡산 호두파이 라벨로에서 직원모집합니다.,계룡산호두파이 라벨로,충남>공주시 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2301070000040&src=etc*search
+143,(주)파이온텍  마케팅 상품기획 경력직 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000262&src=etc*search
+144,(주)파이빅스 해외영업 신입직원 채용,(주)파이빅스,경기>수원시 권선구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408260000210&src=etc*search
+145,(주)파이온텍 마케팅 상품기획 팀원급 채용,(주) 파이온텍,서울>강남구,https://job.incruit.com/jobdb_info/jobpost.asp?job=2407290000235&src=etc*search
+146,CNC 및 파이프레이저 생산가공 (정규직),(주)디랙스,경기>안양시 만안구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2303230000261&src=etc*search
+147,수동 보링기 100파이 1대 기술자 모집,글로벌company,경기>김포시,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002346&src=etc*search
+148,[K-DT 무료교육] 빅데이터 자바&파이선  풀스택 취업과정 훈련생  모집,오라클자바교육센터,서울>구로구 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408190005654&src=etc*search
+149,주5일 / 부천 송내 벤츠파이낸스 대표번호 고객상담 모집,(주)유정에이치알,경기 외,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408230002980&src=etc*search
+150,세종파이낸스센터1차 미화원 채용 (1명),주식회사 유진티에스,세종,https://job.incruit.com/jobdb_info/jobpost.asp?job=2408200002307&src=etc*search
+151,"[IT취업률100프로]개발자 채용연계(국내/일본, 수도권무료숙식 제공/비전공자 가능) 국비무료교육 취업준비생 선착순 모집",㈜세종교육,경기 성남시 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45317131?Oem_Code=C1&logpath=1&stext=파이썬&listno=1
+152,[전액무료IT개발자취업생모집]JAVA개발자/풀스택개발자/AI서비스개발자,㈜하이미디어아카데미,강원,https://www.jobkorea.co.kr/Recruit/GI_Read/45349095?Oem_Code=C1&logpath=1&stext=파이썬&listno=2
+153,[전액무료 IT취업] 파이썬/데이터분석/인공지능/풀스택(무료숙식제공),휴먼교육센터,서울 영등포구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45438050?Oem_Code=C1&logpath=1&stext=파이썬&listno=3
+154,[서울시 지원] 파이썬 기반 개발자 입문과정 훈련생 모집,동대문여성인력개발센터,서울 전지역 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45189900?Oem_Code=C1&logpath=1&stext=파이썬&listno=4
+155,파이썬/데이터분석 국비훈련 강사 모집,한국직업전문학교,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45401462?Oem_Code=C1&logpath=1&stext=파이썬&listno=5
+156,로봇 ROS/파이썬 국비훈련 강사 모집,한국직업전문학교,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45103667?Oem_Code=C1&logpath=1&stext=파이썬&listno=6
+157,구미시 Growing 이미지 Data 수집관리 ( 하둡 파이썬 spark 개발자 ) 10월투입,푸른IT,경북 구미시,https://www.jobkorea.co.kr/Recruit/GI_Read/45411670?Oem_Code=C1&logpath=1&stext=파이썬&listno=7
+158,"파이썬(Python, AWS) 경력 개발자 채용",㈜한국미용데이터,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45381265?Oem_Code=C1&logpath=1&stext=파이썬&listno=8
+159,[(주)아이젝스] Mac Agent 파이썬 개발자 채용 공고,㈜아이젝스,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45324607?Oem_Code=C1&logpath=1&stext=파이썬&listno=9
+160,(병점역) 자바/파이썬/RPA  SW개발 강사 채용,(주)글로벌아카데미,경기 화성시,https://www.jobkorea.co.kr/Recruit/GI_Read/45442711?Oem_Code=C1&logpath=1&stext=파이썬&listno=10
+161,[계약직원] 파이썬 시스템 개발 모집 공고 [9월-연말],㈜피엠에스,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45434490?Oem_Code=C1&logpath=1&stext=파이썬&listno=11
+162,"[방배] 통신사 파이썬 업무 운영(Python/초급,중급)",이수정보㈜,서울 중랑구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45428432?Oem_Code=C1&logpath=1&stext=파이썬&listno=12
+163,자바 / 파이썬 국기과정 훈련교사 모집,㈜우리인재개발원,경기 부천시,https://www.jobkorea.co.kr/Recruit/GI_Read/45414250?Oem_Code=C1&logpath=1&stext=파이썬&listno=13
+164,프론트개발 / 파이썬 국기과정 훈련교사 모집,㈜우리인재개발원,경기 부천시,https://www.jobkorea.co.kr/Recruit/GI_Read/45414168?Oem_Code=C1&logpath=1&stext=파이썬&listno=14
+165,파이썬 (Python) 개발 경력자 모집,㈜테드,서울 강서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45411109?Oem_Code=C1&logpath=1&stext=파이썬&listno=15
+166,"[이젠아카데미 인천]K-디지털,자바,파이썬,정보처리산업기사 강의 훈련교사 채용",이젠아카데미컴퓨터학원,인천 남동구,https://www.jobkorea.co.kr/Recruit/GI_Read/45405738?Oem_Code=C1&logpath=1&stext=파이썬&listno=16
+167,"자바 풀스택, 파이썬/데이터분석 국비훈련 강사 모집",(주)제이엠피코리아,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45401459?Oem_Code=C1&logpath=1&stext=파이썬&listno=17
+168,"직업훈련 [ITQ, 컴기초, 파이썬] 훈련교사 채용",동작여성인력개발센터,서울 동작구,https://www.jobkorea.co.kr/Recruit/GI_Read/45378817?Oem_Code=C1&logpath=1&stext=파이썬&listno=18
+169,"(EZEN) 일산캠퍼스 -  풀스택 JAVA,파이썬. 강사님 모십니다",이젠컴퓨터학원,경기 고양시,https://www.jobkorea.co.kr/Recruit/GI_Read/45353178?Oem_Code=C1&logpath=1&stext=파이썬&listno=19
+170,[(주)뷰브레인헬스케어] 파이썬 풀스택 개발자 채용,㈜뷰브레인헬스케어,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45349625?Oem_Code=C1&logpath=1&stext=파이썬&listno=20
+171,관리팀 관리 인원  채용,㈜메디앱솔,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45231434?Oem_Code=C1&logpath=1
+172,[nest hotel] 조리 신입 및 경력 파트너 채용,네스트,인천,https://www.jobkorea.co.kr/Recruit/GI_Read/45355480?Oem_Code=C1&logpath=1
+173,㈜릴팡 수출입관리(일본어) / 국내&해외 영업 (영어) / 온라인 MD / 경영지원팀 모집,㈜릴팡,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45356912?Oem_Code=C1&logpath=1
+174,"[경력] 배차/전산입력, 오더관리, 거래처관리",㈜트랜스물류,인천,https://www.jobkorea.co.kr/Recruit/GI_Read/45380060?Oem_Code=C1&logpath=1
+175,2024 한국시험인증원 소프트웨어 / 사이버보안 테스트 엔지니어 신입ㆍ경력 공개채용,한국시험인증원,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45246048?Oem_Code=C1&logpath=1
+176,2024년 사무직 신입사원 채용,원빌딩부동산중개㈜,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45333092?Oem_Code=C1&logpath=1
+177,"㈜YS생명과학 제조팀, 기술지원팀 채용",㈜와이에스생명과학,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/44826876?Oem_Code=C1&logpath=1
+178,[월300-400가능] 기구설계/전장제어 직원 채용,(주)씨에이치티,충남 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45374690?Oem_Code=C1&logpath=1
+179,대방건설 경력직 채용,대방건설,서울 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45376917?Oem_Code=C1&logpath=1
+180,"(주)아비즈 굿즈, 인쇄 홍보물 편집디자인 신입/경력사원모집",㈜아비즈,경기 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45375948?Oem_Code=C1&logpath=1
+181,파이썬 개발자 채용,㈜유클리드소프트,대전 서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45332942?Oem_Code=C1&logpath=1&stext=파이썬&listno=21
+182,"[더조은컴퓨터 구로] 자바, 파이썬, 플러터, SQLD자격증 강사 채용",더조은컴퓨터학원,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45324601?Oem_Code=C1&logpath=1&stext=파이썬&listno=22
+183,"빅데이터, 머신러닝, 파이썬 개발자",㈜에이치앤엘시스템,서울 중구,https://www.jobkorea.co.kr/Recruit/GI_Read/45310080?Oem_Code=C1&logpath=1&stext=파이썬&listno=23
+184,웹개발자 (Python/Django 백엔드)  글로벌 빅데이터 마케팅 플랫폼(경력),㈜에이든랩,서울 마포구,https://www.jobkorea.co.kr/Recruit/GI_Read/45265798?Oem_Code=C1&logpath=1&stext=파이썬&listno=24
+185,파이썬 개발자 과정 강사 채용,㈜세종교육,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45247671?Oem_Code=C1&logpath=1&stext=파이썬&listno=25
+186,"[더조은컴퓨터 구로캠퍼스] 빅데이터(파이썬), AI(머신러닝,딥러닝) 강사 채용",더조은컴퓨터학원,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45229811?Oem_Code=C1&logpath=1&stext=파이썬&listno=26
+187,파이썬 Python 프로그램 개발자 모집,충북대학교병원,충북 청주시,https://www.jobkorea.co.kr/Recruit/GI_Read/45227366?Oem_Code=C1&logpath=1&stext=파이썬&listno=27
+188,파이썬 개발자,㈜모아데이타,인천 서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45216559?Oem_Code=C1&logpath=1&stext=파이썬&listno=28
+189,[외국계 IT 대기업 A사] 풀스택 개발자 (Python) 채용,퍼솔켈리코리아 유한회사,서울 강남구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45154182?Oem_Code=C1&logpath=1&stext=파이썬&listno=29
+190,(빅데이터/AI/파이썬/자바/C#/PLC/유니티) 멘토(훈련보조강사) 채용,㈜코드랩이앤티,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45032702?Oem_Code=C1&logpath=1&stext=파이썬&listno=30
+191,파이썬(Python) 백엔드 개발자 모십니다,㈜케이엘피,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45438194?Oem_Code=C1&logpath=1&stext=파이썬&listno=31
+192,파이썬(Python) 프로그램 개발자 모십니다,㈜케이엘피,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45438177?Oem_Code=C1&logpath=1&stext=파이썬&listno=32
+193,전액무료 IT취업교육[훈련수당 지급]Java자바/백엔드/프론트엔드/풀스택/클라우드/빅데이터/인공지능AI/파이썬/국비지원과정,중앙정보기술인재개발원 중앙정보처리학원,서울 마포구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45437808?Oem_Code=C1&logpath=1&stext=파이썬&listno=33
+194,"C#, 파이썬 개발자 모집",㈜에스에이치엘에이비,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45357140?Oem_Code=C1&logpath=1&stext=파이썬&listno=34
+195,[전액무료국비취업프로그램] 자바/파이썬/개발자/정보보안/클라우드/엔지니어/인공지능/AI/AWS/GCP/웹개발/백엔드/프론트엔드/풀스택/데브옵스/DevSecOps/java/python/코딩/it 내일배움카드 K디지털 국민취업지원제도 교육,(it)개발자클라우드(ai)인공지능빅데이터국비지원학원,서울 종로구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45323838?Oem_Code=C1&logpath=1&stext=파이썬&listno=35
+196,[국비무료/채용연계] 빅데이터 응용 JAVA프로그래밍 개발자 양성과정,㈔한국산업기술협회,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45419080?Oem_Code=C1&logpath=1&stext=파이썬&listno=36
+197,AWS Managed Service (Enterprise Cloud Engineer) 채용,메가존클라우드㈜,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45365047?Oem_Code=C1&logpath=1&stext=파이썬&listno=37
+198,AI(인공지능) S/W개발 경력 및 신입 사원채용,㈜와이티에스,경기 안산시,https://www.jobkorea.co.kr/Recruit/GI_Read/45429464?Oem_Code=C1&logpath=1&stext=파이썬&listno=38
+199,[브이엠에스솔루션스] 2024년 각부문별 채용,브이엠에스솔루션스,경기 용인시 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45303317?Oem_Code=C1&logpath=1&stext=파이썬&listno=39
+200,[프라시아 전기] 테크니컬 아티스트,㈜넥슨,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45201719?Oem_Code=C1&logpath=1&stext=파이썬&listno=40
+201,관리팀 관리 인원  채용,㈜메디앱솔,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45231434?Oem_Code=C1&logpath=1
+202,"유튜브 라이브방송PD, 영상편집자 채용",㈜퍼플아카데미,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45211930?Oem_Code=C1&logpath=1
+203,"㈜이현어패럴 BEEN,BLUETAIL,SWITCH123 디자이너,VMD,MD 신입 또는 경력 채용",㈜이현어패럴,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45348135?Oem_Code=C1&logpath=1
+204,[대원미디어] 애니메이트 매장 사원 채용,대원미디어,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45341769?Oem_Code=C1&logpath=1
+205,"[경력] 배차/전산입력, 오더관리, 거래처관리",㈜트랜스물류,인천,https://www.jobkorea.co.kr/Recruit/GI_Read/45380060?Oem_Code=C1&logpath=1
+206,슬코 생산물류직원 모집,슬코,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45052139?Oem_Code=C1&logpath=1
+207,탐앤탐스 브랜딩사업본부 신입 · 경력직 채용(콘텐츠·제휴마케팅 부문),㈜탐앤탐스,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45068025?Oem_Code=C1&logpath=1
+208,[주 3일 원격근무] 비상교육 전체직무 상시채용,㈜비상교육,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45044716?Oem_Code=C1&logpath=1
+209,"[국비지원, 취업연계] 로봇, MES, 펌웨어 교육생 모집",대한상공회의소 충남인력개발원,충남 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45381150?Oem_Code=C1&logpath=1
+210,2024 하반기 (주거)설계부 경력직/ 공사부 (주거공사) 채용,㈜아베크디자인,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45361648?Oem_Code=C1&logpath=1
+211,[기술본부] IT지원실 소스 저장소 및 배포 담당자,㈜넥슨,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45183476?Oem_Code=C1&logpath=1&stext=파이썬&listno=41
+212,[외국계/용산/정규직] Vehicle Network Software Engineer (차량통신 소프트웨어 엔지니어),㈜벡터코리아 (Vector Korea),서울 용산구,https://www.jobkorea.co.kr/Recruit/GI_Read/45124453?Oem_Code=C1&logpath=1&stext=파이썬&listno=42
+213,[ Craver ] 글로벌 뷰티 화장품 브랜드 SKIN1004 그로스팀(마케팅&데이터) 경력직 채용,㈜크레이버코퍼레이션,서울 강남구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45286465?Oem_Code=C1&logpath=1&stext=파이썬&listno=43
+214,[머니쿤] 앱테크/체험단 서비스 기획자 채용 (경력),핫셀러,서울 동대문구,https://www.jobkorea.co.kr/Recruit/GI_Read/45284990?Oem_Code=C1&logpath=1&stext=파이썬&listno=44
+215,[머니쿤] 앱테크/체험단 프론트엔드 개발자 채용 (React/React Native),핫셀러,서울 동대문구,https://www.jobkorea.co.kr/Recruit/GI_Read/45284983?Oem_Code=C1&logpath=1&stext=파이썬&listno=45
+216,2024 지니언스 인재 채용,지니언스(주),경기 안양시,https://www.jobkorea.co.kr/Recruit/GI_Read/45043614?Oem_Code=C1&logpath=1&stext=파이썬&listno=46
+217,[AInation] 인공지능 백엔드(Back-End) 개발자 모집 (경력),㈜에이아이네이션,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45426497?Oem_Code=C1&logpath=1&stext=파이썬&listno=47
+218,(주)윕스 웹 프론트엔드/백엔드 개발자 모집 (경력),㈜윕스,서울 마포구,https://www.jobkorea.co.kr/Recruit/GI_Read/45410886?Oem_Code=C1&logpath=1&stext=파이썬&listno=48
+219,소프트웨어개발 업무 담당자 모집,㈜하나플랫폼,서울 강서구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45444733?Oem_Code=C1&logpath=1&stext=파이썬&listno=49
+220,"백엔드 풀스택 웹개발자 부트캠프( 풀스택,백엔드,AI 챗봇,국비지원무료교육)",㈜이젠아카데미,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45418473?Oem_Code=C1&logpath=1&stext=파이썬&listno=50
+221,"총무, IT 파트 담당자 모집",㈜라이온코리아,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45439544?Oem_Code=C1&logpath=1&stext=파이썬&listno=51
+222,"금융,공공,일반기업 운영개발[SM,SI]",아이비티에스㈜,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45214585?Oem_Code=C1&logpath=1&stext=파이썬&listno=52
+223,"[주식회사 와보텍] 자동차관련 DB 분석 및  빅데이터  관리, 분석 연구원 채용 모집",㈜와보텍,서울 송파구,https://www.jobkorea.co.kr/Recruit/GI_Read/45421249?Oem_Code=C1&logpath=1&stext=파이썬&listno=53
+224,"[데이트코스 1위 앱 데이트팝] 부산 로컬매니저(영업,신입가능)",주식회사 텐핑거스,부산 동구,https://www.jobkorea.co.kr/Recruit/GI_Read/45414668?Oem_Code=C1&logpath=1&stext=파이썬&listno=54
+225,[콴텍투자일임] 로보어드바이저 개발 솔루션 담당자 모집,콴텍투자일임㈜,서울 영등포구,https://www.jobkorea.co.kr/Recruit/GI_Read/45413065?Oem_Code=C1&logpath=1&stext=파이썬&listno=55
+226,그린컴퓨터아트학원 신도림지점에서 직종별 교강사 모집합니다.,지아이티아카데미신도림역,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45401744?Oem_Code=C1&logpath=1&stext=파이썬&listno=56
+227,AI 연구원 및 개발자 모집,㈜델타엑스,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45392162?Oem_Code=C1&logpath=1&stext=파이썬&listno=57
+228,"[자율출근]개발자 파격대우 경력자 typescript, nodejs, MySQL",㈜오너클랜,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45390040?Oem_Code=C1&logpath=1&stext=파이썬&listno=58
+229,[신입] 클라우드(Cloud) 영업 담당자 모집,㈜콘텐츠브릿지,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45389562?Oem_Code=C1&logpath=1&stext=파이썬&listno=59
+230,[도서출판 예문사] IT/컴퓨터/프로그래밍언어 분야 수험서 기획자 채용,㈜예문아카이브,서울 마포구,https://www.jobkorea.co.kr/Recruit/GI_Read/45385175?Oem_Code=C1&logpath=1&stext=파이썬&listno=60
+231,[PCB대기업/매주가불] 월400만이상/ 상여300프로 / 정착지원금60만 / 기숙사무료제공 / 통근버스,주식회사 씨앤테크놀러지,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45331722?Oem_Code=C1&logpath=1
+232,㈜릴팡 수출입관리(일본어) / 국내&해외 영업 (영어) / 온라인 MD / 경영지원팀 모집,㈜릴팡,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45356912?Oem_Code=C1&logpath=1
+233,[포토그레이] 광주지역 슈퍼바이저(SV) 신입 및 경력 채용,㈜에이피알커뮤니케이션즈,광주 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45255149?Oem_Code=C1&logpath=1
+234,[㈜씨앤디마이크로] 무역부 정규직 채용,㈜씨앤디마이크로,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45375088?Oem_Code=C1&logpath=1
+235,[LG계열사] 급여 및 복리후생 담당자 모집 (양천향교역 근무),㈜비즈테크온,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45306974?Oem_Code=C1&logpath=1
+236,꾸준한 일자리 초보가능 단순생산 인천 생산직 대규모 사원모집,㈜한성컴퍼니,인천 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45373981?Oem_Code=C1&logpath=1
+237,생산관리 신입 및 경력직 채용,우진일렉트로나이트㈜,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45344444?Oem_Code=C1&logpath=1
+238,현대렌탈케어 계약사원 채용,주식회사 현대렌탈케어,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45356858?Oem_Code=C1&logpath=1
+239,"[코인 유튜브 제작자] [ 업계최고연봉 /얼굴공개 X /리딩X /월 1,000 이상 가능 ][경력무관]",㈜대한파트너스,경기 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45031097?Oem_Code=C1&logpath=1
+240,"2024년 CTR 그룹 신입/경력 채용 (설계, 품질관리, 생산관리, 생산기술, 총무, 설계-해석, 설비개선, 단조개발 PM,원소재관리, 안전관리, CNC개발, 영업, 시작관리 外)",㈜씨티알,경남,https://www.jobkorea.co.kr/Recruit/GI_Read/45101956?Oem_Code=C1&logpath=1
+241,[원아이디랩] PHP개발 스킬을 품은 시스템운영 인재를 모십니다. (경력자우대),㈜원아이디랩,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45384930?Oem_Code=C1&logpath=1&stext=파이썬&listno=61
+242,제조기업 기반 빅데이터 분석 실무 교육생 모집,한국기술사업화진흥협회,대구 달서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45383439?Oem_Code=C1&logpath=1&stext=파이썬&listno=62
+243,한국공인회계사회 사무직원 채용 공고,한국공인회계사회,서울 서대문구,https://www.jobkorea.co.kr/Recruit/GI_Read/45380345?Oem_Code=C1&logpath=1&stext=파이썬&listno=63
+244,10년 전통의 우수교육기관에서 저녁반  유능하신 선생님을 모십니다.,엠비씨(MBC)아카데미 컴퓨터교육센터,서울 관악구,https://www.jobkorea.co.kr/Recruit/GI_Read/45378118?Oem_Code=C1&logpath=1&stext=파이썬&listno=64
+245,하이미디어컴퓨터디자인학원(일산점) 과정별 강사 채용공고,㈜하이미디어컴퓨터디자인학원,경기 고양시,https://www.jobkorea.co.kr/Recruit/GI_Read/45375527?Oem_Code=C1&logpath=1&stext=파이썬&listno=65
+246,인공지능 펌웨어 개발자 채용,㈜에스씨에스,세종 전지역,https://www.jobkorea.co.kr/Recruit/GI_Read/45373036?Oem_Code=C1&logpath=1&stext=파이썬&listno=66
+247,천안 이젠아카데미컴퓨터학원 에서 새로운 강사진을 모집합니다.,이젠아카데미컴퓨터학원,충남 천안시,https://www.jobkorea.co.kr/Recruit/GI_Read/45371350?Oem_Code=C1&logpath=1&stext=파이썬&listno=67
+248,컴퓨터방문교사 (투잡 가능) 채용,컴키드홈스쿨,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45288962?Oem_Code=C1&logpath=1&stext=파이썬&listno=68
+249,포장119(주) 마케터 업무 담당자 모집합니다.,포장119㈜,서울 중구,https://www.jobkorea.co.kr/Recruit/GI_Read/45364283?Oem_Code=C1&logpath=1&stext=파이썬&listno=69
+250,MacOS Application 개발자 (3년 이상) - 판교,㈜지란지교데이터,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45362114?Oem_Code=C1&logpath=1&stext=파이썬&listno=70
+251,10444. JAVA 금융권개발 및 운영 - SI-SM,㈜베스티아소프트,인천 연수구,https://www.jobkorea.co.kr/Recruit/GI_Read/45344726?Oem_Code=C1&logpath=1&stext=파이썬&listno=71
+252,"총무, IT 파트 담당자 모집",워드캣,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45343533?Oem_Code=C1&logpath=1&stext=파이썬&listno=72
+253,24년 하반기 시스템 연구개발 및 웹 / 응용 SW 개발,㈜유니스소프트,대전 대덕구,https://www.jobkorea.co.kr/Recruit/GI_Read/45337698?Oem_Code=C1&logpath=1&stext=파이썬&listno=73
+254,데이터표준품질부문 경력채용 (정규직),㈜한국정보기술단,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45332769?Oem_Code=C1&logpath=1&stext=파이썬&listno=74
+255,컴퓨터방문교사[투잡 가능] 채용,컴키드홈스쿨,서울 서초구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45316121?Oem_Code=C1&logpath=1&stext=파이썬&listno=75
+256,"10443. JAVA, React.js 시스템운영 및 개발 -SI / SM",㈜베스티아소프트,인천 연수구,https://www.jobkorea.co.kr/Recruit/GI_Read/45313590?Oem_Code=C1&logpath=1&stext=파이썬&listno=76
+257,클라우드 인프라 엔지니어 경력,㈜위키드스톰,서울 강서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45312293?Oem_Code=C1&logpath=1&stext=파이썬&listno=77
+258,[경력] 시스템 엔지니어(SE) 모집,㈜콘텐츠브릿지,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45313108?Oem_Code=C1&logpath=1&stext=파이썬&listno=78
+259,[프라이빗테크놀로지] 시스템 엔지니어 팀장급 모집,프라이빗테크놀로지㈜,서울 마포구,https://www.jobkorea.co.kr/Recruit/GI_Read/45285455?Oem_Code=C1&logpath=1&stext=파이썬&listno=79
+260,에듀테크 SW.AI 교육 콘텐츠 기획 및 개발자,메이킷올,경기 고양시,https://www.jobkorea.co.kr/Recruit/GI_Read/45276026?Oem_Code=C1&logpath=1&stext=파이썬&listno=80
+261,"경기 쿠팡 퀵 플렉스 모바일캠프[초보가능,경력,학력,성별 무관][월평균550萬元]주간/야간 배송직원 채용공고",㈜신건,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45354209?Oem_Code=C1&logpath=1
+262,[메르세데스 벤츠 / 주5일] 자동차 성능검사 및 관리 [기숙사 무료] [통근버스],피피에이치알,경기 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45313860?Oem_Code=C1&logpath=1
+263,[kt ds] 2024년 각 부문별 경력사원 상시채용,㈜KT DS,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/44945803?Oem_Code=C1&logpath=1
+264,로담건축(주) 인테리어  설계직 / 공무직 / 시공직 직원모집,로담건축㈜,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45295914?Oem_Code=C1&logpath=1
+265,[젠틀몬스터] 비주얼 아트 디렉터 (신입/경력),㈜아이아이컴바인드,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45353139?Oem_Code=C1&logpath=1
+266,2024년 대한제당 부문별 신입 및 경력 채용,대한제당㈜,서울 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45353430?Oem_Code=C1&logpath=1
+267,데이터 분석 (Data Scientist) 채용,㈜에이브랩스,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45360429?Oem_Code=C1&logpath=1
+268,[글로벌 유아브랜드] 마케팅 경력직 채용,㈜코엔코,서울 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45330897?Oem_Code=C1&logpath=1
+269,[주 3일 원격근무] 비상교육 전체직무 상시채용,㈜비상교육,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45044716?Oem_Code=C1&logpath=1
+270,"[재택 근무] 초등 영어강사 및 교수부장, 초등 영어 컨텐츠 전문가",토피아에듀케이션㈜,서울 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45267879?Oem_Code=C1&logpath=1
+271,클라우드 인프라 엔지니어 경력직 채용,㈜위키드스톰,서울 강서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45267098?Oem_Code=C1&logpath=1&stext=파이썬&listno=81
+272,[신입] DB 엔지니어 모집,㈜콘텐츠브릿지,서울 양천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45252459?Oem_Code=C1&logpath=1&stext=파이썬&listno=82
+273,자율주행 AI 엔지니어 강사 채용 (재택/경력우대),㈜엘리스,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45247166?Oem_Code=C1&logpath=1&stext=파이썬&listno=83
+274,센서 신호처리 알고리듬 및 AI 솔루션 개발자 모집,㈜길온,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45245515?Oem_Code=C1&logpath=1&stext=파이썬&listno=84
+275,GUI 개발자,이지모션㈜,서울 서초구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45236273?Oem_Code=C1&logpath=1&stext=파이썬&listno=85
+276,"JAVA 개발-금융,공공,일반기업 운영개발[SM,SI]",㈜앱메이드,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45214623?Oem_Code=C1&logpath=1&stext=파이썬&listno=86
+277,"금융,공공,일반기업 운영개발[SM,SI]",㈜앱메이드,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45214597?Oem_Code=C1&logpath=1&stext=파이썬&listno=87
+278,웹프로그래머및 응용프로그래머 모집,아이비티에스㈜,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45214498?Oem_Code=C1&logpath=1&stext=파이썬&listno=88
+279,"금융,공공,일반기업  웹프로그래머및 응용프로그래머 모집",아이비티에스㈜,서울 강남구,https://www.jobkorea.co.kr/Recruit/GI_Read/45214201?Oem_Code=C1&logpath=1&stext=파이썬&listno=89
+280,응용 소프트웨어 개발자 모집(경력),㈜링크나인시스템,대전 유성구 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45190202?Oem_Code=C1&logpath=1&stext=파이썬&listno=90
+281,[2024 정식채용] Unity/Unreal/AIR 프론트엔드 개발자 모집,지아이웍스,서울 구로구,https://www.jobkorea.co.kr/Recruit/GI_Read/45115415?Oem_Code=C1&logpath=1&stext=파이썬&listno=91
+282,"[더조은컴퓨터아카데미 신촌캠퍼스] AWS 클라우드, 자바 웹 개발&빅데이터(AI) 강사 구인",더조은아카데미신촌지점,서울 마포구,https://www.jobkorea.co.kr/Recruit/GI_Read/45107808?Oem_Code=C1&logpath=1&stext=파이썬&listno=92
+283,c++ 소프트웨어 엔진 개발자,포트리스 이노베이션㈜,대전 유성구,https://www.jobkorea.co.kr/Recruit/GI_Read/45091364?Oem_Code=C1&logpath=1&stext=파이썬&listno=93
+284,주식회사 이음 개발팀 백엔드/서버 개발자 공개 채용,㈜이음,부산 해운대구,https://www.jobkorea.co.kr/Recruit/GI_Read/45076549?Oem_Code=C1&logpath=1&stext=파이썬&listno=94
+285,2024년 연구개발분야 정규직/인턴 직원 채용,㈜디지털조이,서울 금천구,https://www.jobkorea.co.kr/Recruit/GI_Read/45035572?Oem_Code=C1&logpath=1&stext=파이썬&listno=95
+286,"[펀비어킹] 수퍼 바이저(가맹점/직영점), 온라인마케팅, 점장(직영점), 치킨 메뉴 R&D 총괄",펀앤아이,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45336463?Oem_Code=C1&logpath=1&stext=파이썬&listno=96
+287,웹개발 강사 채용,㈜코리아아이티아카데미대전,대전 서구,https://www.jobkorea.co.kr/Recruit/GI_Read/45336827?Oem_Code=C1&logpath=1&stext=파이썬&listno=97
+288,펌웨어 개발자,스카이랩스,경기 성남시,https://www.jobkorea.co.kr/Recruit/GI_Read/45315248?Oem_Code=C1&logpath=1&stext=파이썬&listno=98
+289,[광고사업부] 모션 디자이너 채용,매드업,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45257780?Oem_Code=C1&logpath=1&stext=파이썬&listno=99
+290,[광고사업부] 글로벌 퍼포먼스 마케터(AE) 채용,매드업,서울 서초구,https://www.jobkorea.co.kr/Recruit/GI_Read/45257757?Oem_Code=C1&logpath=1&stext=파이썬&listno=100
+291,"㈜YS생명과학 제조팀, 기술지원팀 채용",㈜와이에스생명과학,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/44826876?Oem_Code=C1&logpath=1
+292,[일본계기업] 무역 수출입 신입 채용,닛켄인터내셔널코리아㈜,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45233599?Oem_Code=C1&logpath=1
+293,꾸준한 일자리 초보가능 단순생산 인천 생산직 대규모 사원모집,㈜한성컴퍼니,인천 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45373981?Oem_Code=C1&logpath=1
+294,"[주4.5일/3400부터]고우F&B 고우가, 우아라(신규) 홀/주방 신입, 경력 채용(여의도, 광화문)",㈜고우에프앤비,서울 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45240451?Oem_Code=C1&logpath=1
+295,급여 500-3000 기본급 500만 비트패스-코인자동매매프로그램 영업사원 모집,㈜크레더빌리티,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45047776?Oem_Code=C1&logpath=1
+296,[인천] 무인경비 출동대원 채용,보스시큐리티㈜,인천,https://www.jobkorea.co.kr/Recruit/GI_Read/45299371?Oem_Code=C1&logpath=1
+297,"[앤씨앤/넥스트칩] 2024년 8월 연구소, 영업마케팅 각 부문모집",㈜앤씨앤,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45237512?Oem_Code=C1&logpath=1
+298,2024년 해피니스컨트리클럽 각 부문별 직원 채용,해피니스컨트리클럽㈜,전남 외,https://www.jobkorea.co.kr/Recruit/GI_Read/45351860?Oem_Code=C1&logpath=1
+299,[PCB대기업/매주가불] 월400만이상/ 상여300프로 / 정착지원금60만 / 기숙사무료제공 / 통근버스,주식회사 씨앤테크놀러지,경기,https://www.jobkorea.co.kr/Recruit/GI_Read/45331722?Oem_Code=C1&logpath=1
+300,패키지 디자인팀 (사원/주임급)정직원 채용모집,㈜이너네이쳐,서울,https://www.jobkorea.co.kr/Recruit/GI_Read/45226508?Oem_Code=C1&logpath=1
