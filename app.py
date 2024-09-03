@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect, send_file
 from scr import search_incruit
 from scr import search_jobkorea
+from scr import search_saramin
 from file import save_to_csv
 
 app = Flask(__name__)
@@ -21,7 +22,8 @@ def search():
     else:
         jobs_incruit = search_incruit(keyword, page)
         jobs_jobkorea = search_jobkorea(keyword, page)
-        jobs = jobs_incruit + jobs_jobkorea
+        jobs_saramin = search_saramin(keyword, page)
+        jobs = jobs_incruit + jobs_jobkorea + jobs_saramin
         db[keyword] = jobs
 
     return render_template("search.html", keyword=keyword, jobs=enumerate(jobs), counts=len(jobs))

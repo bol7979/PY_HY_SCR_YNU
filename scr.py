@@ -46,7 +46,6 @@ def search_incruit(kw, pg = 1):
 
     return jobs
 
-
 def search_jobkorea(kw, pg = 1):
     jobs = []
     for i in range(pg):
@@ -80,14 +79,79 @@ def search_jobkorea(kw, pg = 1):
         print(f"{i + 1}페이지 완료")
     return jobs
 
-# result = search_jobkorea("파이썬")
-# print(result)
+def search_saramin(kw, pg = 1):
+    jobs = []
 
-# result = search_incruit("파이썬", 10)
-# print(result)
-# print(len(result))
+    for i in range(pg):
 
-# result = search_jobkorea("회계", 10)
-# print(result)
-# print(len(result))
+        pg = i + 1
+        response = requests.get(
+        f"https://www.coupang.com/np/search?q={kw}&channel=user&page={pg}",
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Accept-Language": "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3"})
+        soup = BeautifulSoup(response.text, "html.parser")
+        lis = soup.find_all("div", class_ = "item_recruit")
 
+        for li in lis:
+            title = li.find("h2", class_ = "job_tit").find("span").text
+            company = li.find("strong", class_ = "corp_name").find("a").text.strip()
+            location = li.find("div", class_ = "job_condition").find_all("span")[0].text
+            link = li.find("h2", class_ = "job_tit").find("a").get("href")
+
+            job_data = {
+            "title": title,
+            "company": company,
+            "location": location,
+            "link": f"https://www.saramin.co.kr{link}"
+            }
+
+            jobs.append(job_data)
+
+    return jobs
+
+def search_coupang(kw, pg = 1):
+    jobs = []
+
+    pg = 1
+    kw = "컴퓨터"
+
+    response = requests.get(
+        f"https://www.coupang.com/np/search?component=&q={kw}&channel=user&page={pg}",
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Accept-Language": "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3"})
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    lis = soup.find_all("li", class_= "search-product search-product__ad-badge")
+
+    for li in lis:
+        title = li.find("div", class_ = "name").text
+        price = li.find("strong", class_ = "price-value").text
+        rating = li.find("div", class_ = "rating-star").find("span", class_ = "star").text
+        rating_n = li.find("div", class_ = "rating-star").find("span", class_ = "rating-total-count").text
+        link = li.find("a").get("href")
+
+        job_data = {
+            "title": title,
+            "price": price,
+            "rating": rating,
+            "rating_n": rating_n,
+            "link": f"https://www.coupang.com{link}"
+        }
+
+        jobs.append(job_data)
+    
+    return jobs
+
+
+kw = "컴퓨터"
+
+response = requests.get(
+    f"https://search.shopping.naver.com/search/all?query={kw}",
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", "Accept-Language": "ko-KR,ko;q=0.8,en-US;q=0.5,en;q=0.3"})
+soup = BeautifulSoup(response.text, "html.parser")
+print(soup)
+
+lis = soup.find_all("div", class_ = "product_item__")
+print(lis)
+
+for li in lis:
+    title = li.find("a").text
+    print(title)
